@@ -1,0 +1,66 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: url('../images/borna-bevanda-beCHuGxfBhk-unsplash.jpg') no-repeat
+    center center fixed;
+  background-size: cover;
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+}
+
+.headline,
+.subhead {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.headline {
+  font-size: 3em;
+  margin-top: 200px;
+}
+
+.content {
+  background-color: rgba(255, 255, 255, 0.4);
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.subhead {
+  font-size: 2em;
+  margin-top: 50px;
+}
+
+.highlight {
+  font-style: italic;
+  -webkit-text-stroke: 0.75px black;
+}
+
+.boring {
+  color: #d8d8d8;
+}
+
+.exciting {
+  color: #ee1eb5;
+}
+.myButton {
+  background-color: #ff5bb0;
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  border-radius: 6px;
+  border: 1px solid #ee1eb5;
+  cursor: pointer;
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: bold;
+  margin: 20px auto;
+  padding: 6px 24px;
+  text-decoration: none;
+}
+
+.myButton:hover {
+  background-color: #ef027d;
+}
