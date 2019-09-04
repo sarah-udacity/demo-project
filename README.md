@@ -12,6 +12,6 @@ This project will allow you to apply the skills you have acquired in the introdu
 4. Create a function that updates the text and background image of the page
     * Toggle background image between the two provided images
     * Toggle headline and subhead text between two different messages
-    * Toggle button text 
+    * Toggle button text
   
 5. Add an event listener to the button that runs the function to toggle the page content.

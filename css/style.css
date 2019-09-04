@@ -43,9 +43,11 @@ body {
   color: #d8d8d8;
 }
 
+/* styles you can use for your button an interactive elemenets */
 .exciting {
   color: #ee1eb5;
 }
+
 .myButton {
   background-color: #ff5bb0;
   -moz-border-radius: 6px;
